@@ -1,5 +1,6 @@
 # qwerty
 
+# This is not a great idea -- this should be done locally... c'est la vie. 
 ## This is a subsection
 This is a test repository. This is only a test. Had there been a real repository....
 -----------------------------------------------
